@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm zahra karami</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100">Hi 👋, I'm zahra karami</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <img align="right" alt="zahra" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
