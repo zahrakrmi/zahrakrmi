@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm zahra karami</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
+<img align="right" alt="zahra" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrakrmi&label=Profile%20views&color=0e75b6&style=flat" alt="zahrakrmi" /> </p>
 
