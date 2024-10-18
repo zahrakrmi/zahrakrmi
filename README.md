@@ -1,10 +1,8 @@
 <h1 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100">Hi 👋, I'm zahra karami</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-
-<img align="right" alt="zahra" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrakrmi&label=Profile%20views&color=0e75b6&style=flat" alt="zahrakrmi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zahrakrmi&label=Profile%20views&color=0e75b6&style=flat" alt="zahrakrmi" /> </p>
+<img align="center" alt="zahra" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahrakrmi" alt="zahrakrmi" /></a> </p>
-
 </br>
 <div style="flex-direction: row"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="35" height="35"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif" width="57" height="57"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"></div>
 
